@@ -1,2 +1,29 @@
-# 3D-interactive-particles-vue-threejs
-3D interactive particles made using vue 3 and threejs library
+# interactive-particles-vue-threejs
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
